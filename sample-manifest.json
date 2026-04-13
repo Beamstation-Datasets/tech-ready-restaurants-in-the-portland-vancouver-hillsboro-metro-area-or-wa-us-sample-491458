@@ -1,0 +1,12 @@
+{
+  "export_job_id": "9df053fb-8749-4a4f-8bee-07c0d2ca2fc8",
+  "id_short": 491458,
+  "published_at": "2026-04-13T19:04:51Z",
+  "repo_name": "tech-ready-restaurants-in-the-portland-vancouver-hillsboro-metro-area-or-wa-us-sample-491458",
+  "sample_asset_name": "beamstation_491458_restaurants-us-portlandvancouverhillsboroorwa_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/491458/beamstation_491458_restaurants-us-portlandvancouverhillsboroorwa_SAMPLE_DIST.csv",
+  "sample_records": 1,
+  "sample_sha256": "c0b8207574e4bf0ccdc0b3219cedbba83b538f5ff100d88fc73d7032f9b55a37",
+  "sample_size_bytes": 20508,
+  "total_records": 11
+}
