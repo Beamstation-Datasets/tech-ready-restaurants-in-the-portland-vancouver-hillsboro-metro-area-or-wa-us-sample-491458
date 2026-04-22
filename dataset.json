@@ -6,17 +6,17 @@
   "config_category": "sales",
   "config_description": "The \"Low Hanging Fruit.\" They have the budget but need the tech.\n\nRestaurants well-established (Beam Score > 70) and performing (sentiments last 30 days > 10 that lack online reservation AND online ordering\n\nReady for technology adoption and modernization.",
   "config_name": "Tech-Ready Restaurants in the Portland-Vancouver-Hillsboro Metro Area, OR-WA, US",
-  "export_job_id": "71290052-828a-4859-81e2-3e23f5f2dce1",
+  "export_job_id": "54369a57-41d6-40a0-ac0a-270606fdb7be",
   "github_org": "Beamstation-Datasets",
   "id_short": 491458,
   "location_name": "Portland-Vancouver-Hillsboro, OR-WA",
   "location_type": "metro",
   "repo_name": "tech-ready-restaurants-in-the-portland-vancouver-hillsboro-metro-area-or-wa-us-sample-491458",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/491458/beamstation_491458_restaurants-us-portlandvancouverhillsboroorwa_SAMPLE_DIST.csv",
-  "sample_pct": 14.29,
+  "sample_pct": 6.67,
   "sample_records": 1,
-  "sample_sha256": "e02e23d138c95dd724d2cd0e56acfa40ac8272ac5e2140d86d916c6b9a5a4dd7",
-  "sample_size_bytes": 20012,
-  "total_records": 7,
-  "updated_at": "2026-04-15T08:44:24.542326+00:00"
+  "sample_sha256": "bea805705aa1786f60c20c9584b2be8fbb6a93c3624a2c5f20967f99f21dbd72",
+  "sample_size_bytes": 20204,
+  "total_records": 15,
+  "updated_at": "2026-04-22T16:01:41.044002+00:00"
 }
