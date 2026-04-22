@@ -9,9 +9,9 @@
 | Dataset ID | `491458` |
 | Location | Portland-Vancouver-Hillsboro, OR-WA |
 | Category | Restaurants |
-| Full dataset size | 7 records |
-| Free sample size | 1 records (14.29%) |
-| Last export | 2026-04-15T08:44:24.542326+00:00 |
+| Full dataset size | 15 records |
+| Free sample size | 1 records (6.67%) |
+| Last export | 2026-04-22T16:01:41.044002+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/tech-ready-restaurants-in-the-portland-vancouver-hillsboro-metro-area-or-wa-us-sample-491458/releases/download/sample-latest/beamstation_491458_restaurants-us-portlandvancouverhillsboroorwa_SAMPLE_DIST.csv) |
 
 ## What is in this sample
